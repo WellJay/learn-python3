@@ -9,8 +9,7 @@
 - 常量   eg:PI=3.14159265359
 '''
 
-
-#tips:转义字符\
+# tips:转义字符\
 print('I\'m ok.')
 # I'm ok.
 
@@ -21,7 +20,7 @@ print('I\'m learning\nPython')
 print('\\\\')
 # \\
 
-#tips:如果字符串内部有很多换行，用\n写在一行里不好阅读，为了简化，Python允许用'''...'''的格式表示多行内容，
+# tips:如果字符串内部有很多换行，用\n写在一行里不好阅读，为了简化，Python允许用'''...'''的格式表示多行内容，
 print('''line1
 ...line2
 ...line3''')
@@ -36,7 +35,7 @@ print(2 > 1)
 print(True and False)
 # False
 
-#tips:条件判断
+# tips:条件判断
 age = 20
 if age >= 18:
     print('adult')
