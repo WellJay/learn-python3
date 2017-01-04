@@ -7,7 +7,7 @@ elif conditional:
 else:
     do something
 
-input() - 接受值。中断程序，直到用户在终端中输入值，即可继续执行程序(值为str)
+input() - 接收值。中断程序，直到用户在终端中输入值，即可继续执行程序(值为str)
 '''
 
 age = 20

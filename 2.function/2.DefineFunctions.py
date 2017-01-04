@@ -59,5 +59,5 @@ def return_2_value():
 
 
 a, b = return_2_value()
-print(a, b);
+print(a, b)
 # 1 2

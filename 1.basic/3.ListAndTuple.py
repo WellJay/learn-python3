@@ -37,7 +37,7 @@ print(family)
 
 
 # tips:要删除list末尾的元素，用pop()方法, 要删除指定位置的元素，用pop(i)方法，其中i是索引位置
-family.pop();
+family.pop()
 print(family)
 # ['father', 'others', 'mother', 'me', 'brother']
 
