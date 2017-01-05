@@ -27,3 +27,14 @@ Learn Python 3(学习python3代码笔记)
  - AnonymousFunction 匿名函数
  - Decorator.py 装饰器
  - PartialFunction.py 偏函数
+- module 模块
+ - UseModule.py 模块的使用
+ - InstallThirdPartModule.py 安装第三方模块
+- error 错误
+ - ErrorHandling.py 错误处理
+ - Debugging.py 调试
+- io 文件IO
+ - FileReadAndWrite.py 文件读写
+ - FileAndDirectories.py 文件和目录
+ - StringIO-BytesIO.py StringIO和BytesIO
+ - Serialization.py 序列化
