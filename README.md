@@ -38,3 +38,10 @@ Learn Python 3(学习python3代码笔记)
  - FileAndDirectories.py 文件和目录
  - StringIO-BytesIO.py StringIO和BytesIO
  - Serialization.py 序列化
+- thread 多线程
+ - Multiprocessing 多进程
+ - Thread 多线程
+- 常用内建模块
+ - datetime 日期时间
+ - collections 集合
+ - base64 Base64编码
