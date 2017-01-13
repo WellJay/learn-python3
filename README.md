@@ -45,3 +45,13 @@ Learn Python 3(学习python3代码笔记)
  - datetime 日期时间
  - collections 集合
  - base64 Base64编码
+ - hashlib 摘要算法
+ - itertools 迭代工具
+ - XML xml
+ - HTMLparser html转换器
+ - urllib url工具箱
+- graphicInterface 图形界面
+ - graphic 图形界面
+- networkProgramming 网络编程
+ - TCPIP TCPIP简介
+ - TCP TCP使用
